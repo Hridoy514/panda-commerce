@@ -1,0 +1,70 @@
+.bottom{
+    margin-bottom: -100px;
+}
+.carousel-fix{
+    margin-top: 150px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    font-weight: bold;
+}
+.cat1{
+    border-radius: 10px;
+    background-color: orange;
+}
+.cat2{
+    border-radius: 10px;
+    background-color: #FF136F;
+}
+.cat3{
+    border-radius: 10px;
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.backpack{
+    margin-top: 100px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.subscribe{
+    background-color: #fceae8;
+    height: 300px;
+}
+.subscribe h6{
+    color: gray;
+}
+.btn-fixed{
+    margin-top: -20px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
